@@ -34,6 +34,7 @@
 }
 
 .js .grid.loaded li {
+	border-radius: 20px;
 	display: block;
 }
 
@@ -61,6 +62,7 @@
 /* Anchor and image */
 .grid li > .listLink,
 .grid li img {
+	border-radius: 20px;
 	display: block;
 	outline: none;
 	border: none;
@@ -123,6 +125,7 @@
 .portfolioSlide{
 	padding-bottom:116px;
 	background-color:#f8f7f8;
+	border-radius: 20px;
 	}
 /* Title */
 .grid li h3 {
@@ -165,6 +168,7 @@
 
 /* Pseudo element for hover effect */
 .grid li > .listLink a::before {
+	border-radius: 20px;
 	position: absolute;
 	top: 0;
 	left: 0;
